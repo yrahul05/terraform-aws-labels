@@ -36,8 +36,8 @@ variable "extra_tags" {
 
 variable "managedby" {
   type        = string
-  default     = "Rahul Yadav"
-  description = "ManagedBy, eg 'Rahul Yadav'."
+  default     = "yrahul05"
+  description = "ManagedBy, eg 'yrahul05'."
 }
 
 variable "enabled" {
